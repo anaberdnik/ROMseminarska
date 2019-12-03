@@ -1,5 +1,5 @@
 # ROMseminarska
 Seminarska naloga pri predmetu ROM
 
-
-Izbrala sem temo zaporedja. Njihova analiza, zanimivi primeri, limite, grafični prikaz.
+Tema so liki v ravnini. Njihov opis, zapis funkcij za izračun ploščine in prostornine ter grafični prikaz.
+Prikaz zanimivejših primerov.
